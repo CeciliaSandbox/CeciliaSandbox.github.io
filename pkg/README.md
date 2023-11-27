@@ -1,5 +1,5 @@
-# wave_simulation
-Simulation of a Wave Equation using the Verlet Method
+# schwarzschild_raytracer
+Visualizes geometry around a black hole with efficient ray casting
 
 ## Web Version
-https://fireprincess01.github.io/
+https://ceciliasandbox.github.io/
